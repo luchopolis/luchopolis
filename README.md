@@ -20,4 +20,4 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luchopolis)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luchopolis&theme=dark&hide_border=true)](https://git.io/streak-stats)
